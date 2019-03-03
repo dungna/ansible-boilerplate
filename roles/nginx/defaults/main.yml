@@ -1,0 +1,4 @@
+---
+domain: nguyenanhdung.info
+username: dungna
+nginx_worker_processes: "{{ ansible_processor_cores }}"
